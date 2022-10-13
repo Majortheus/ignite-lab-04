@@ -10,7 +10,7 @@ export const parameters = {
       date: /Date$/,
     },
   },
-  docks: {
+  docs: {
     theme: themes.dark,
   },
 };
